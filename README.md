@@ -52,5 +52,7 @@ We welcome contributions! Please see the CONTRIBUTING.md for guidelines on how t
 
 ## **Acknowledgments**
 Open Source Libraries: Special thanks to TensorFlow, ML Kit, and Firebase for providing robust tools and resources.
-Developers & Contributors: We appreciate the hard work and dedication of all developers who contributed to this project.
+Developer: We appreciate the hard work and dedication of all developers who contributed to this project.
+
+Project - VIlsi Jain
 
