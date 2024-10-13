@@ -1,15 +1,56 @@
-# Hack Western 7 - AlignAI
+# Remote-Workout
+Your Personal Coach: Perfect Poses, Anytime, Anywhere.
 
-<p align="center">
-  <img src="images/3.jpg" width="200"> <img src="images/4.jpg" width="200">
-</p> 
 
-AlignAI is a mobile fitness application that utilizes TensorFLows pose estimation model to determine if a user is doing a specified exercise correctly based on their body alignment.
+## Objective
+To create an interactive fitness app that uses AI to monitor yoga poses and exercises, automatically progressing to the next asana once the current one is completed. This application aims to make home workouts more engaging, accurate, and personalized.
 
-The Flutter app was built in 48 hours for Hack Western, a digital Hackathon. Check out the full app demo [here](https://youtu.be/qTkxSWIwJk8)
+![Screenshot 2024-10-13 005407](https://github.com/user-attachments/assets/b439dc5d-5b91-4354-bf7f-60b32ef37ed2)
 
-<p align="center">
-  <img src="/images/arm-press.gif" width="300"> <img src="/images/warrior-pose.gif" width="300">
-</p>
+# **Getting Started**
 
-Since this was built in only 48 hours the code is certainly not perfect, but it works and I'll be improving it in the future! 
+## **Prerequisites**
+- **Flutter SDK**: [Install Flutter](https://flutter.dev/docs/get-started/install)
+- **Firebase Account**: [Create Firebase Account](https://firebase.google.com/)
+- **TensorFlow Lite**: [TensorFlow Lite Setup](https://www.tensorflow.org/lite/guide)
+
+## **Installation**
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/username/remote-workout-app.git
+   cd remote-workout-app
+
+2 **Install Dependencies**
+
+- flutter pub get
+
+3 **Set Up Firebase**
+
+Follow the Firebase documentation to set up authentication and database.
+Replace the google-services.json in the project.
+Run the Application
+
+4 **Technologies Required**
+Machine Learning: TensorFlow Lite, ML Kit
+Mobile Development: Flutter, Android Studio, Visual Studio Code
+Database & Authentication: Firebase
+Languages: Dart, Python
+Contributing
+
+
+## **Core Functions**
+- AI Pose Detection: The app uses a camera to monitor users' poses, providing real-time feedback to ensure correct postures.
+- Automated Tracking: Automatic repetition counters track and monitor progress, allowing the app to advance to the next exercise when needed.
+- Customized Workout Plans: Users can choose from curated workout plans that guide them through structured exercise routines.
+- Additional Tools: Includes a BMI calculator, calendar, and reminders to help users stay on track with their fitness goals.
+
+![Screenshot 2024-10-13 005650](https://github.com/user-attachments/assets/6e7385a8-c0fd-4db4-89c4-2d320a10dde2)
+
+We welcome contributions! Please see the CONTRIBUTING.md for guidelines on how to get involved.
+
+
+## **Acknowledgments**
+Open Source Libraries: Special thanks to TensorFlow, ML Kit, and Firebase for providing robust tools and resources.
+Developers & Contributors: We appreciate the hard work and dedication of all developers who contributed to this project.
+
