@@ -49,7 +49,7 @@ Contributing
 
 We welcome contributions! Please see the CONTRIBUTING.md for guidelines on how to get involved.
 
-## License
+## **License**
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/vilsi12/Remote-Workout-AI/blob/main/LICENSE) file for details.
 
 
