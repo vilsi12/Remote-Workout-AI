@@ -52,7 +52,6 @@ We welcome contributions! Please see the CONTRIBUTING.md for guidelines on how t
 ## **License**
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/vilsi12/Remote-Workout-AI/blob/main/LICENSE) file for details.
 
-
 ## **Acknowledgments**
 Open Source Libraries: Special thanks to TensorFlow, ML Kit, and Firebase for providing robust tools and resources.
 Developer: We appreciate the hard work and dedication of all developers who contributed to this project.
